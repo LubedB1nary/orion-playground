@@ -245,7 +245,7 @@ export default function Home() {
           <ReactTextareaAutosize
             value={input}
             onChange={(event) => setInput(event.target.value)}
-            placeholder="Ask o1 anything..."
+            placeholder="Ask orion anything..."
             className="w-full resize-none rounded-md p-4 pr-12 bg-secondary/90 text-secondary-foreground focus:outline-none"
             minRows={1}
             maxRows={20}
