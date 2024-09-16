@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "o1 Playground",
-  description: "A playground for OpenAI's o1 models."
+  title: "orion Playground",
+  description: "A playground for OpenAI's unrelased Orion models."
 };
 
 export default function RootLayout({
